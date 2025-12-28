@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](https://github.com/user-attachments/assets/6fc36e59-d622-47e2-86b7-6e5d430d3c5f)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+![1 Salary Dashboard Chart1](https://github.com/user-attachments/assets/a315de63-28a0-4ff4-afc6-be765f12750f)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -43,7 +43,11 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Chart2.png](https://github.com/user-attachments/assets/4143773e-c0e9-469a-ae3a-9666fd804e45)
+
+
+
+
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -72,13 +76,6 @@ IF(
 - 🎯 **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
-🍽️ Background Table
-
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
-
-📉 Dashboard Implementation
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -89,14 +86,6 @@ IF(
 - 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
-🍽️ Background Table
-
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
-
-📉 Dashboard Implementation:
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
-
 ### ❎ Data Validation
 
 #### 🔍 Filtered List
@@ -105,8 +94,6 @@ IF(
     - 🎯 User input is restricted to predefined, validated schedule types
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
